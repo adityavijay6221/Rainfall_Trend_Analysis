@@ -1,4 +1,5 @@
 # 🌧️ Rainfall Analysis & Agricultural Impact | AWS S3, Snowflake, Power BI
+### Dashboard Link: https://app.powerbi.com/links/sanj_LWubC?ctid=ea8ae8e0-4ea9-4d36-801d-0eee370d9e5f&pbi_source=linkShare
 
 ## 📌 Project Overview
 This project implements an end-to-end **data analytics pipeline** to analyze rainfall patterns and their relationship with agricultural variables such as crop yield, area cultivated, humidity, and seasonality.
